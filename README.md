@@ -36,21 +36,17 @@ Shadow DOM - http://w3c.github.io/webcomponents/spec/shadow/
 Polymer - https://www.polymer-project.org/1.0/
 ==============================================
 
+![](https://elements.polymer-project.org/images/polymer.svg)
+
 https://elements.polymer-project.org/
 https://builtwithpolymer.org/ - Great examples of projects built with Polymer
 
-X-TAG - http://x-tag.github.io/
-================================
+Ember JS - http://emberjs.com/
+==============================
 
-X-Tag is a Microsoft supported, open source, JavaScript library that wraps the W3C standard Web Components family of APIs to provide a compact, feature-rich interface for rapid component development.
-While X-Tag offers feature hooks for all Web Component APIs (Custom Elements, Shadow DOM, Templates, and HTML Imports), it only requires Custom Element support to operate.
-In the absence of native Custom Element support, X-Tag uses a set of polyfills shared with Google's Polymer framework.
+![](http://www.gravatar.com/avatar/0cf15665a9146ba852bf042b0652780a?s=200)
 
-
-Bosonic - http://bosonic.github.io/
-===================================
-
-Elements - http://bosonic.github.io/elements/dialogs-modals.html
+https://guides.emberjs.com/v1.10.0/components/ - Ember Components
 
 
 Other
