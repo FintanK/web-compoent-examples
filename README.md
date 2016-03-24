@@ -22,6 +22,8 @@ In the future, both will be used together. Because custom elements will be the D
 From http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/
 
 
+# Useful Resources
+
 W3C Specifications
 ====================
 
@@ -30,9 +32,6 @@ Custom Elements - http://w3c.github.io/webcomponents/spec/custom/
 HTML Imports - http://w3c.github.io/webcomponents/spec/imports/
 Shadow DOM - http://w3c.github.io/webcomponents/spec/shadow/
 
-
-Useful Resources
-==================
 
 Polymer - https://www.polymer-project.org/1.0/
 ==============================================
@@ -52,6 +51,7 @@ Bosonic - http://bosonic.github.io/
 ===================================
 
 Elements - http://bosonic.github.io/elements/dialogs-modals.html
+
 
 Other
 =====
