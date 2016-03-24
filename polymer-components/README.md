@@ -4,6 +4,11 @@ Messing around with Polymer for web components
 
 ![](http://image.slidesharecdn.com/polymerlego-150326005927-conversion-gate01/95/polymer-lego-16-638.jpg?cb=1427331912)
 
+How it works
+------------
+
+In this example the web components library is used to include a web component built with polymer.
+
 Installation
 ------------
 
