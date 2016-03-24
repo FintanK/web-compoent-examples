@@ -1,0 +1,27 @@
+{
+  "name": "polymer-web-component-examples",
+  "version": "1.0.0",
+  "description": "Messing around with Polymer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FintanK/polymer-web-component-examples.git"
+  },
+  "keywords": [
+    "Polymer",
+    "Node.js"
+  ],
+  "author": "Fintan Kearney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FintanK/polymer-web-component-examples/issues"
+  },
+  "homepage": "https://github.com/FintanK/polymer-web-component-examples#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "http": "0.0.0"
+  }
+}

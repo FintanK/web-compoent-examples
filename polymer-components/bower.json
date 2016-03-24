@@ -1,0 +1,27 @@
+{
+  "name": "polymer-web-component-examples",
+  "homepage": "https://github.com/FintanK/polymer-web-component-examples",
+  "description": "A simple example of Polymer in action",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "Polymer",
+    "Node.js"
+  ],
+  "authors": [
+    "Fintan Kearney"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.2.3",
+    "iron-input": "polymerelements/iron-input#~1.0.7"
+  }
+}
