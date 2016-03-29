@@ -41,13 +41,6 @@ Polymer - https://www.polymer-project.org/1.0/
 https://elements.polymer-project.org/
 https://builtwithpolymer.org/ - Great examples of projects built with Polymer
 
-Ember JS - http://emberjs.com/
-==============================
-
-![](http://www.gravatar.com/avatar/0cf15665a9146ba852bf042b0652780a?s=200)
-
-https://guides.emberjs.com/v1.10.0/components/ - Ember Components
-
 
 Other
 =====
